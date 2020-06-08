@@ -1,0 +1,101 @@
+Id,Nombre,Acronimo,Email,Portal de trasnparencia,Sitio web,Disponible
+1,Registro Nacional de las Personas Naturales,RNPN,fromero@rnpn.gob.sv,,https://www.rnpn.gob.sv,True
+2,Instituto Nacional de los Deportes de El Salvador,INDES,oir@indes.gob.sv,,http://indes.gob.sv/,True
+3,Instituto Salvadoreño para el Desarrollo de la Mujer,ISDEMU,oficialdeinformacion@isdemu.gob.sv,,http://www.isdemu.gob.sv/,True
+4,Fondo de Inversión Social para el Desarrollo Local de El Salvador en transición a Ministerio de Desarrollo Local / Fondo de Inversión Nacional en Electrificación y Telefonía ,FISDL / FINET,oir@fisdl.gob.sv,,http://www.fisdl.gob.sv/,True
+5,Fondo Solidario para la Familia Microempresaria,FOSOFAMILIA,comunicaciones@fosofamilia.gob.sv,,https://www.fosofamilia.gob.sv,True
+6,Ministerio de Hacienda,MH,oficialdeinformacion@mh.gob.sv,http://www7.mh.gob.sv/pmh/es/Temas/Ley_de_Acceso_a_la_Informacion_Publica/,,True
+7,Lotería Nacional de Beneficencia,LNB,cesar.rosales@lnb.gob.sv,,https://www.lnb.gob.sv,True
+8,Instituto Nacional de Pensiones de los Empleados Públicos,INPEP,informacionpublica@inpep.gob.sv,,https://www.inpep.gob.sv/,True
+9,Presidencia de la República,CAPRES,uaip@presidencia.gob.sv,,http://www.presidencia.gob.sv/,True
+10,Ministerio de Relaciones Exteriores,RREE,oaip@rree.gob.sv,,http://www.rree.gob.sv/,True
+11,Ministerio de la Defensa Nacional,MDN,oir@mdn.mil.sv,,https://www.fuerzaarmada.mil.sv/,True
+12,Instituto Salvadoreño de Desarrollo Municipal,ISDEM,uaip@isdem.gob.sv,,http://www.isdem.gob.sv/,True
+13,Academia Nacional de Seguridad Pública,ANSP,oir.ansp@gmail.com,,http://www.ansp.gob.sv/,True
+14,Ministerio de Gobernación y Desarrollo Territorial,MIGOBDT,oirmigob@gobernacion.gob.sv,,http://www.gobernacion.gob.sv,True
+15,Ministerio de Justicia y Seguridad Publica,MJSP,oficial.informacion@seguridad.gob.sv,,http://www.seguridad.gob.sv/,True
+16,"Ministerio de Educación, Ciencia y Tecnología",MINEDUCYT,transparencia@mined.gob.sv,,,True
+17,Caja Mutual de los Empleados del Ministerio de Educación,CAJA MINED,oir@cajamined.gob.sv,,http://www.cajamined.gob.sv/,True
+18,Instituto Salvadoreño Para el Desarrollo Integral de la Niñez y la Adolescencia,ISNA,oficialdeinformacion@isna.gob.sv,,,True
+19,Consejo Nacional de la Niñez y de la Adolescencia,CONNA,oficialdeinformacion@conna.gob.sv,,http://www.conna.gob.sv/,True
+20,Ministerio de Salud,MINSAL,oir@salud.gob.sv,,http://www.salud.gob.sv,True
+21,Consejo Superior de Salud Pública,CSSP,amorales@cssp.gob.sv,,http://cssp.gob.sv/,True
+22,Instituto Salvadoreño de Rehabilitación Integral,ISRI,oficial.informacion@isri.gob.sv,,http://www.isri.gob.sv,True
+23,Fondo Solidario para la Salud (Fosalud),FOSALUD,oir@fosalud.gob.sv,,http://www.fosalud.gob.sv/,True
+24,Ministerio de Trabajo y Previsión Social,MTPS,oficialinformacion@mtps.gob.sv,,,True
+25,Instituto Salvadoreño de Fomento Cooperativo,INSAFOCOOP,oir@insafocoop.gob.sv,,http://www.insafocoop.gob.sv/,True
+26,Instituto Salvadoreño de Formación Profesional,INSAFORP,oficialdeinformacion@insaforp.org.sv,,http://www.insaforp.org.sv,True
+27,Instituto Salvadoreño del Seguro Social,ISSS,oir@isss.gob.sv,,http://www.isss.gob.sv/,True
+28,Fondo de Proteccion de Lisiados y Discapacitados a Consecuencia del Conflicto Armado,FOPROLYD,uaip@fondolisiados.gob.sv,,,True
+29,Ministerio de Economía,MINEC,oir@minec.gob.sv,,http://www.minec.gob.sv/  ,True
+30,Centro Internacional de Ferias y Convenciones de El Salvador.,CIFCO,lizeth.alino@cifco.gob.sv,,http://www.cifco.gob.sv/,True
+31,Nuevo Consejo Nacional de Ciencia y Tecnología,NCONACYT,ulisest@conacyt.gob.sv,,http://www.conacyt.gob.sv,True
+32,Consejo de Vigilancia de la Profesión de Contaduría Pública y Auditoría,CVPCPA,oir@consejodevigilancia.gob.sv,,,True
+33,Consejo Salvadoreño del Café,CSC,emorales@consejocafe.org.sv,http://laip.csc.gob.sv/,,True
+34,Comisión Ejecutiva Hidroeléctrica del Río Lempa,CEL,oir@cel.gob.sv,,https://www.cel.gob.sv/,True
+35,Corporación Salvadoreña de Turismo,CORSATUR,oficialdeinformacion@corsatur.gob.sv,,,True
+36,Superintendencia General de Electricidad y Telecomunicaciones,SIGET,oir@siget.gob.sv,,https://www.siget.gob.sv/,True
+37,Superintendencia del Sistema Financiero,SSF,oir@ssf.gob.sv,,,True
+38,Corporación Salvadoreña de Inversiones,CORSAIN,oficialdeinformacion@corsain.gob.sv,,,True
+39,Centro Nacional de Registros,CNR,uaip@cnr.gob.sv,,http://www.cnr.gob.sv/,True
+40,Superintendencia de Competencia,SC,oir@sc.gob.sv,,http://www.sc.gob.sv/,True
+41,Defensoría del Consumidor,DC,transparencia@defensoria.gob.sv,,https://www.defensoria.gob.sv/,True
+42,Comisión Nacional de la Micro y Pequeña Empresa,CONAMYPE,emiranda@conamype.gob.sv,,https://www.conamype.gob.sv/,True
+43,Ministerio de Agricultura y Ganadería,MAG,oir@mag.gob.sv,,,True
+44,Instituto Salvadoreño de Transformación Agraria,ISTA,forellana@ista.gob.sv,,,True
+45,"Centro Nacional de Tecnología Agropecuaria  y Forestal, Enrique Álvarez Córdova",CENTA,oir@centa.gob.sv,,http://www.centa.gob.sv/2015/,True
+46,Escuela Nacional de Agricultura,ENA,oficialdeinformacion@ena.edu.sv,http://portal.ena.edu.sv/,,True
+47,Ministerio de Obras Públicas y de Transporte,MOPT,oir@mop.gob.sv,,http://www.mop.gob.sv/,True
+48,Administración Nacional de Acueductos y Alcantarillados,ANDA,transparencia@anda.gob.sv,,http://www.anda.gob.sv/,True
+49,Fondo Social para la Vivienda,FSV,evelin.soler@fsv.gob.sv,,http://www.fsv.gob.sv/ ,True
+50,Comision Ejecutiva Portuaria Autonoma,CEPA,oficial.informacion@cepa.gob.sv,,http://www.cepa.gob.sv/,True
+51,Autoridad de Aviación Civil de El Salvador,AAC,oir@aac.gob.sv,,http://www.aac.gob.sv/,True
+52,Fondo Nacional de Vivienda Popular,FONAVIPO,oir@fonavipo.gob.sv,,,True
+53,Fondo de Conservación Víal,FOVIAL,xguardado@fovial.com,,http://www.fovial.com,True
+54,AUTORIDAD MARÍTIMA PORTUARIA,AMP,jreyes@amp.gob.sv,,http://www.amp.gob.sv,True
+55,Ministerio de Medio Ambiente y Recursos Naturales,MARN,oir@marn.gob.sv,,http://www.marn.gob.sv/,True
+56,Fondo Ambiental de El Salvador,FONAES,rcabrera@fonaes.gob.sv,,http://fonaes.gob.sv/,True
+57,Ministerio de Turismo,MITUR,oficialdeinformacion@mitur.gob.sv,,https://www.transparencia.gob.sv/institutions/mitur,True
+58,Instituto Salvadoreño de Turismo,ISTU,smpalacios@istu.gob.sv,,http://www.istu.gob.sv/,True
+59,Centro Farmacéutico de la Fuerza Armada,CEFAFA,oficialdeinformacion@farmaciascefafa.com.sv,,http://www.farmaciascefafa.com.sv,True
+60,Instituto de Legalización de la Propiedad (ILP),ILP,informacion@ilp.gob.sv,,http://www.ilp.gob.sv,True
+61,Fondo Salvadoreño para Estudios de Preinversión,FOSEP,oficialdeinformacion@fosep.gob.sv,,http://www.fosep.gob.sv,True
+62,Dirección General de Migración y Extranjería,DGME,oir.dgme@seguridad.gob.sv,,http://www.migracion.gob.sv/,True
+63,Fondo Especial de los Recursos provenientes de la Privatización de ANTEL,FANTEL,lquijada@presidencia.gob.sv,,,True
+64,Fondo de Saneamiento y Fortalecimiento Financiero ,FOSAFFI,roxana.diaz@fosaffi.gob.sv,,http://www.fosaffi.gob.sv/,True
+65,Consejo Nacional de Energía,CNE,oficial@cne.gob.sv,,,True
+66,Instituto de Garantía de Depósitos,IGD,oficialdeinformacion@igd.gob.sv,,http://igd.gob.sv/,True
+67,Policía Nacional Civil,PNC,oir@pnc.gob.sv,http://transparencia.pnc.gob.sv/,,True
+68,Dirección General de Centros Penales,DGCP,iris.valle@seguridad.gob.sv,,http://www.dgcp.gob.sv/,True
+69,Instituto de Previsión Social de la Fuerza Armada.,IPSFA,oficial.información@ipsfa.com,,https://www.ipsfa.com/,True
+70,Banco de Desarrollo de El Salvador,BANDESAL,oir@bandesal.gob.sv,,,True
+71,Instituto Salvadoreño de Bienestar Magisterial,ISBM,oficinadeinformacion@isbm.gob.sv,,http://www.isbm.gob.sv/,True
+72,Banco de Fomento Agropecuario,BFA,diego.gomez@bfa.gob.sv,,http://www.bfa.gob.sv/,True
+73,Banco Central de Reserva de El Salvador,BCR,oficial.informacion@bcr.gob.sv,,http://www.bcr.gob.sv/esp/,True
+74,Consejo Nacional de Atención Integral a la Persona con Discapacidad,CONAIPD,uaip@conaipd.gob.sv,,http://www.conaipd.gob.sv/,True
+75,Consejo Nacional de Calidad,CNC,oir@cnc.gob.sv,,,True
+76,Dirección Nacional de Medicamentos,DNM,uaip@medicamentos.gob.sv,,http://www.medicamentos.gob.sv/index.php/es/,True
+77,Asamblea Legislativa,AL,transparencia@asamblea.gob.sv,,,False
+78,Corte de Cuentas de la República,CCR,uaip@cortedecuentas.gob.sv,,,False
+79,Consejo Nacional de la Judicatura,CNJ,accesoinformacion@cnj.gob.sv,,,False
+80,Corte Suprema de Justicia,CSJ,recepcion.uaip@csj.gob.sv,,,False
+81,Fiscalía General de la República,FGR,transparenciainstitucional@fgr.gob.sv,,,False
+82,Oficina de Planificación del Área Metropolitana de San Salvador,OPAMSS,informacion@opamss.org.sv,,https://www.opamss.org.sv,True
+83,Procuraduría General de la República,PGR,paola.berdugo@pgr.gob.sv,http://www.informacionpublicapgr.gob.sv/index.php/es/,,False
+84,Procuraduría para la Defensa de los Derechos Humanos,PDDH,transparencia@pddh.gob.sv,,,False
+85,Tribunal de Ética Gubarnamental,TEG,c.artola@teg.gob.sv,,,True
+86,Tribunal de Servicio Civil,TSC,oficialdeinformacion@tsc.gob.sv,,https://www.tsc.gob.sv,True
+87,Tribunal Supremo Electoral,TSE,tse.oir@gmail.com,,,False
+88,Unidad Técnica Ejecutiva del Sector de  Justicia,UTE,uaip@ute.gob.sv,http://transparencia.ute.gob.sv/,,True
+89,Alcaldía Municipal de San Miguel,"San Miguel, San Miguel  ",oir@sanmiguel.gob.sv,,,True
+90,Alcaldía Municipal de Santa Ana,AMSA,uaip.alcaldiasantaana@gmail.com,,https://santaana.gob.sv/,True
+91,Universidad de El Salvador,UES,uaip@ues.edu.sv,,,False
+92,Viceministerio de Transporte,VMT,oir.vmt@mop.gob.sv,,,True
+93,Organismo Promotor de Exportaciones e Inversiones de El Salvador,PROESA,oir@proesa.gob.sv,,http://www.proesa.gob.sv/,True
+94,"Alcaldía Municipal de Chinameca, San Miguel","Chinameca, San Miguel",juridica.moraga@gmail.com,,,True
+95,Alcaldía Municipal de Comacarán,"Comacarán, San Miguel",comacaran.alcaldia@yahoo.com,,,True
+96,Alcaldía Municipal de El Porvenir ,"El Porvenir, Santa Ana",juliocesar.uaip@hotmail.com,,,True
+97,Alcaldía Municipal de Candelaria,"Candelaria, Cuscatlán",alcaldiacandelariacuscatlan@hotmail.com,,,True
+99,Alcaldía Municipal de San Pedro Masahuat,"San Pedro Masahuat, La Paz",uaipspm@gmail.com,,,True
+100,Alcaldía Municipal de Santiago Texancuangos,"Santiago Texancuangos, San Salvador",secretariomunicipal.st@gmail.com,,,True
+101,Alcaldía Municipal de Pasaquina,"Pasaquina, La Unión",elnati@hotmail.es,,,True
